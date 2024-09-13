@@ -15,7 +15,7 @@
 #elasticsearch:8.7.0
 #grafana/grafana-enterprise:9.5.2
 #jayfong/yapi:1.10.2
-kafka:3.4.0
+
 kibana:8.7.0
 logstash:8.7.0
 mongo:4.4.16
@@ -40,4 +40,5 @@ nacos/nacos-server:v2.2.3
 #--platform=linux/arm64 xiaoyaliu/alist
 
 # 未同步
+#kafka:3.4.0
 #pivotaldata/gpdb-base:latest
