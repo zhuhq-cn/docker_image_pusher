@@ -4,6 +4,7 @@
 #xhofe/alist:latest
 
 #alpine:3.18
+
 #apache/airflow:2.7.0
 #apache/doris:2.0.0_alpha-be-x86_64:latest
 #apache/doris:2.0.0_alpha-fe-x86_64:latest
@@ -20,18 +21,19 @@
 #mongo:4.4.16
 #mysql:8.0
 #nacos/nacos-server:v2.2.3
-#nginx:1.18.0
+nginx:1.18.0
 #nickzurich/efak:3.0.1
-#openjdk:8-jdk-alpine
+openjdk:8-jdk-alpine
 #oscarfonts/h2
 #pivotaldata/gpdb-base:latest
-#prom/prometheus:v2.44.0
-#postgres:14
-#redis:6.2.11
-redis:latest
-redislabs/redisinsight:1.14.0
-sonatype/nexus3:3.60.0
-zookeeper:3.8.1
+prom/prometheus:v2.44.0
+postgres:14
+redis:6.2.11
+
+#redis:latest
+#redislabs/redisinsight:1.14.0
+#sonatype/nexus3:3.60.0
+#zookeeper:3.8.1
 #centos:7
 #ubuntu:20.04
 
