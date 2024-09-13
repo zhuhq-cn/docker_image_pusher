@@ -28,12 +28,12 @@
 #prom/prometheus:v2.44.0
 #postgres:14
 #redis:6.2.11
-#redis:latest
-#redislabs/redisinsight:1.14.0
-#sonatype/nexus3:3.60.0
-#zookeeper:3.8.1
-centos:7
-ubuntu:20.04
+redis:latest
+redislabs/redisinsight:1.14.0
+sonatype/nexus3:3.60.0
+zookeeper:3.8.1
+#centos:7
+#ubuntu:20.04
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
