@@ -33,8 +33,9 @@
 #centos:7
 #ubuntu:20.04
 
-python:2.7.18-buster
-python:3.8.20-bookworm
+#python:2.7.18-buster
+#python:3.8.20-bookworm
+hello-world:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
