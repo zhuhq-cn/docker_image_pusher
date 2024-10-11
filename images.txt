@@ -35,7 +35,8 @@
 
 #python:2.7.18-buster
 #python:3.8.20-bookworm
-hello-world:latest
+python:3.12.7-bookworm
+#hello-world:latest
 
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
