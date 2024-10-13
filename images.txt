@@ -32,10 +32,13 @@
 #zookeeper:3.8.1
 #centos:7
 #ubuntu:20.04
+apache/rocketmq:4.9.4
+styletang/rocketmq-console-ng:1.0.0
+
 
 #python:2.7.18-buster
 #python:3.8.20-bookworm
-python:3.12.7-bookworm
+#python:3.12.7-bookworm
 #hello-world:latest
 
 #支持指定架构
