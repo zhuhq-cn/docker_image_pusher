@@ -22,6 +22,8 @@
 #nginx:1.18.0
 #nickzurich/efak:3.0.1
 #openjdk:8-jdk-alpine
+openjdk:17-jdk-alpine
+openjdk:21-jdk-alpine
 #oscarfonts/h2
 #prom/prometheus:v2.44.0
 #postgres:14
@@ -32,8 +34,8 @@
 #zookeeper:3.8.1
 #centos:7
 #ubuntu:20.04
-apache/rocketmq:4.9.4
-styletang/rocketmq-console-ng:1.0.0
+#apache/rocketmq:4.9.4
+#styletang/rocketmq-console-ng:1.0.0
 
 
 #python:2.7.18-buster
