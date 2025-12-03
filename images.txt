@@ -46,6 +46,8 @@ openjdk:21-jdk-alpine
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
+gvenzl/oracle-free:23-slim
+
 # 未同步
 #kafka:3.4.0
 #pivotaldata/gpdb-base:latest
