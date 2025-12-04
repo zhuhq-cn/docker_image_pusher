@@ -22,8 +22,8 @@
 #nginx:1.18.0
 #nickzurich/efak:3.0.1
 #openjdk:8-jdk-alpine
-openjdk:17-jdk-alpine
-openjdk:21-jdk-alpine
+#openjdk:17-jdk-alpine
+#openjdk:21-jdk-alpine
 #oscarfonts/h2
 #prom/prometheus:v2.44.0
 #postgres:14
